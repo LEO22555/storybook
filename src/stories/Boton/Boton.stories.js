@@ -2,7 +2,8 @@ import { Boton } from "./Boton";
 
 export default {
   component: Boton,
-  title: "Componentes/Boton",
+  title: "Atoms/Esentials/Boton",
+  tags: ["autodocs"],
 };
 
 // Stories
